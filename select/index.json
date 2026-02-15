@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "電脳眠眠猫",
+  "base_artist": "桃寝ちのい",
+  "createdAt": "2026-02-15T09:59:21.558478Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "電脳眠眠猫 (feat. なみぐる)",
+      "artist": "桃寝ちのい",
+      "has_synced": false,
+      "path": "select/pl_01_電脳眠眠猫_(feat._なみぐる)_桃寝ちのい.txt"
+    }
+  ]
+}
